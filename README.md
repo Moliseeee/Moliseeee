@@ -6,7 +6,7 @@
 
 北京交通大学 · 交通运输 + 信息与计算科学 双学士 · 大三
 
-量化学习者 · A股实战者 · 微信机器人爱好者 · 备考北大金融专硕 431
+量化学习者 · A股实战者 · 微信机器人爱好者 · big fan of vibecoding
 
 [![个人博客](https://img.shields.io/badge/Blog-molise.top-4f7942?style=flat-square&logo=githubpages&logoColor=white)](https://www.molise.top)
 
