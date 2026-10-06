@@ -25,6 +25,7 @@
 |---|---|
 | 📚 备考北大金融专硕 431（2028 考研） | Preparing for PKU Master of Finance (431) |
 | 📈 A股量化研究：个人学习项目，风控第一 | A-share quant research — personal learning, risk control first |
+| ⚡ 超大城市充电设施规划建模：国际赛决赛备赛中 | EV charging infrastructure planning for megacities — preparing for an international contest final |
 | 🤖 微信消息审核 bot：拦截→AI 建议→号主审核，绝不代发 | WeChat review bot: intercept → AI suggestion → owner approves, never auto-replies |
 
 ## 📦 项目 / Projects
@@ -32,14 +33,16 @@
 | 项目 | 说明 |
 |---|---|
 | [quant](https://github.com/Moliseeee/quant) | A股量化研究/回测框架：无前视偏差 T+1 成交引擎、A股约束（涨跌停/停牌/整手）、因子 IC/IR 验证、walk-forward。个人学习项目，并非机构级 / *A-share quant research & backtest framework: no-lookahead T+1 engine, A-share constraints, factor IC/IR validation, walk-forward. Personal learning, not institutional-grade* |
+| [Charge-me-maybe](https://github.com/Moliseeee/Charge-me-maybe) | 带电网约束的电动汽车充电站选址优化模型：OSM 真实路网 + 交通需求 + 电网容量 → 空间优化建站方案。含哈尔滨全流程算例（报告 / LaTeX 工程 / 结果 / 可复现脚本） / *Grid-constrained EV charging station siting model: OSM road network + travel demand + grid capacity → spatially optimized deployment. Includes a full Harbin case study (report / LaTeX / results / reproducible scripts)* |
 | [astrbot-plugin-review-mode](https://github.com/Moliseeee/astrbot-plugin-review-mode) | AstrBot 微信消息审核插件：LLM 生成建议回复，经号主审核后才发送。审核通知每小时汇总推送，绝不代发 / *AstrBot WeChat review plugin: AI-suggested replies sent only after owner approval. Hourly digest notifications, never auto-replies* |
 
 ## 🛠️ 技术栈 / Tech Stack
 
 | 分类 | 内容 |
 |---|---|
-| 语言 / Languages | Python（主力/primary）· SQL · Markdown |
+| 语言 / Languages | Python（主力/primary）· SQL · LaTeX · Markdown |
 | 量化 / Quant | Tushare · akshare · 聚宽 JQData · pandas · 自研回测引擎 |
+| 建模与求解 / Modeling | OSM / osmium · GeoPandas · SCIP / COPT · 网络流与选址优化 |
 | 自动化 / Automation | AstrBot · Hermes Agent · WeFlow · cron |
 | 数据 / Data | SQLite · iFinD · Wind（学习中/learning） |
 
