@@ -25,7 +25,7 @@
 |---|---|
 | 📚 备考北大金融专硕 431（2028 考研） | Preparing for PKU Master of Finance (431) |
 | 📈 A股量化研究：个人学习项目，风控第一 | A-share quant research — personal learning, risk control first |
-| ⚡ 超大城市充电设施规划建模：国际赛决赛备赛中 | EV charging infrastructure planning for megacities — preparing for an international contest final |
+| ⚡ 超大城市充电设施规划建模：国际赛决赛已做完 | EV charging infrastructure planning for megacities — engaged in international contest final |
 | 🤖 微信消息审核 bot：拦截→AI 建议→号主审核，绝不代发 | WeChat review bot: intercept → AI suggestion → owner approves, never auto-replies |
 
 ## 📦 项目 / Projects
